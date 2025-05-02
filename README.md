@@ -15,6 +15,9 @@ I use Google Docs to edit my cheatsheet. I am not skilled enough to use LaTex al
 
 Google Docs works well enough for my use case (3 columns, add images, have small text).
 
+## How I make my cheatsheets
+I happen to have ChatGPT+. I just upload the lecture slides and ask ChatGPT to summarize them for me. I also cross check with the slides to make sure I do not miss any crucial details (e.g. formulae).
+
 ## Other cheatsheets that I have used
 Kudos to these people:
 | Username | Repository |
